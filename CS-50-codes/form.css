@@ -1,0 +1,8 @@
+table {
+    border: 2px solid chartreuse;
+    border-collapse: collapse;
+}
+td , th {
+    border: 2px solid chartreuse;
+    padding: 7px;
+}
